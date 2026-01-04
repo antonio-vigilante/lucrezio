@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'DRM'
-copyright = '2026, Lucrezio'
-author = 'Lucrezio'
+project = 'La Natura'
+copyright = '2026, Antonio Vigilante'
+author = 'Antonio Vigilante'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -32,7 +32,7 @@ language = 'it'
 
 html_theme = 'library'
 html_static_path = ['_static']
-html_title = "DRM"
+html_title = "La Natura"
 
 html_sidebars = {
     "**": [
