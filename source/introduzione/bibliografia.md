@@ -15,6 +15,7 @@ Canali L., *La natura delle cose*, Rizzoli, Milano 1990.
 
 ## Studi
 
+(beretta2015)=
 Beretta 2015  
 Beretta M., *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma 2015.
 

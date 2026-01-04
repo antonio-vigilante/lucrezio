@@ -32,7 +32,12 @@ language = 'it'
 
 html_theme = 'library'
 html_static_path = ['_static']
-html_title = "La Natura"
+html_title = 'La Natura'
+html_logo = '_static/logo.png'
+
+html_css_files = [
+    'custom.css',
+]
 
 html_sidebars = {
     "**": [
@@ -48,4 +53,5 @@ html_sidebars = {
 
 html_theme_options = {
     "typography": "academy-native",
+    'footer_text': 'Testo footer'  # aggiungi qui
 }
