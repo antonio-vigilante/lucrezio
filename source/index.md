@@ -8,5 +8,5 @@ Una edizione digitale del *De Rerum Natura* di Lucrezio con traduzione in endeca
 :caption: Indice 
  
 index 
-DRN/Libro_I/index
+libro_I/index
 ```
