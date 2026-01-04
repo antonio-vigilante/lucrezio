@@ -2,10 +2,16 @@
 
 ## Edizioni critiche
 
+Lachmann
+Lachmann K., *T. Lucretii De rerum natura libri sex*,  Impensis G. Reimeri Berolini 1850, 2 voll.
+
 ## Traduzioni italiane
 
-## Principali traduzioni in altre lingue
+Fellin 1963
+Fellin A., *La Natura*, UTET, Torino 1963.
 
+Canali 1990
+Canali L., *La natura delle cose*, Rizzoli, Milano 1990.
 
 ## Studi
 
