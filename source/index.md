@@ -5,8 +5,6 @@ Una edizione digitale del *De Rerum Natura* di Lucrezio con traduzione in endeca
 
 ```{toctree}
 :maxdepth: 3
-:caption: Indice 
  
-index 
 libro1/index
 ```
