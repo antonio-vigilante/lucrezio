@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'De Rerum Natura'
+project = 'DRM'
 copyright = '2026, Lucrezio'
 author = 'Lucrezio'
 
@@ -15,7 +15,11 @@ author = 'Lucrezio'
 
 extensions = [
     'myst_parser',
-    # altre estensioni...
+    'sphinx_design',   
+]
+
+myst_enable_extensions = [
+    "colon_fence",  # Abilita la sintassi :::
 ]
 
 templates_path = ['_templates']
@@ -26,6 +30,22 @@ language = 'it'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "sphinx_book_theme"
+html_theme = 'library'
 html_static_path = ['_static']
-html_title = "De Rerum Natura"
+html_title = "DRM"
+
+html_sidebars = {
+    "**": [
+        "about.html",         # Project name, description, etc.
+        "globaltoc.html",     # Global table of contents. 
+        "searchbox.html",     # Search.
+        "extralinks.html",    # Links specified in theme options.
+        #"localtoc.html",     # Contents of the current page.
+        "readingmodes.html",  # Light/sepia/dark color schemes.
+        "sponsors.html",      # Fancy sponsor links.
+    ]
+}
+
+html_theme_options = {
+    "typography": "academy-native",
+}

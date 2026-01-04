@@ -1,4 +1,4 @@
-# De Rerum Natura
+# Il *De Rerum Natura* di Lucrezio
 
 Una edizione digitale del *De Rerum Natura* di Lucrezio con traduzione in endecasillabi, testo latino e commento.
 
@@ -7,5 +7,6 @@ Una edizione digitale del *De Rerum Natura* di Lucrezio con traduzione in endeca
 :maxdepth: 3
 :caption: Indice 
  
+index 
 DRN/Libro_I/index
 ```

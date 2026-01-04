@@ -1,27 +1,62 @@
 # Sphinx build outputs
 _build/
 build/
-_static/
-_templates/
+docs/_build/
+docs/build/
+
+# NON ignorare _static e _templates se sono nella source!
+# Ignora solo se sono nella build directory:
+_build/_static/
+_build/_templates/
+build/_static/
+build/_templates/
 
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*.egg
+*.egg-info/
+dist/
 .Python
 env/
 venv/
 ENV/
+env.bak/
+venv.bak/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
 
 # IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
-.DS_Store
+*~
 
 # OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
+# Sphinx specific
+*.mo
+.doctrees/
+docs/build/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
 
