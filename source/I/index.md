@@ -1,9 +1,8 @@
-# De Rerum Natura
+# Libro I
 
-## Libro I
+*De Rerum Natura*, libro I. Traduzione di Antonio Vigilante.
 
-
-
+## Indice
  
 ```{toctree}
 :maxdepth: 1
