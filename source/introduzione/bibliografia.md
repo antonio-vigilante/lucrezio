@@ -9,6 +9,9 @@ Lachmann Karl (1850), *T. Lucretii De rerum natura libri sex*,  Impensis G. Reim
 
 Le traduzioni sono indicate in ordine cronologico, con la data della prima edizione.
 
+(maerchetti1717)=
+Marchetti Alessandro (1717), Tito Lucrezio Caro, *Della Natura delle cose libri sei*, Per Giovanni Pickard, London.
+
 (pinchetti1953)=
 Pinchetti Balilla (1953) *La Natura*, Biblioteca Universale Rizzoli, Milano.
 
