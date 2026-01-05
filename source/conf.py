@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'La natura<br />delle cose'
+project = 'La natura'
 copyright = '2026, Antonio Vigilante'
 author = 'Antonio Vigilante'
 
@@ -45,12 +45,11 @@ html_sidebars = {
         "globaltoc.html",     # Global table of contents. 
         "searchbox.html",     # Search.
         "extralinks.html",    # Links specified in theme options.
-        "localtoc.html",     # Contents of the current page.
+        #"localtoc.html",     # Contents of the current page.
         "sponsors.html",      # Fancy sponsor links.
     ]
 }
 
 html_theme_options = {
     "typography": "academy-native",
-    'footer_text': 'Testo footer'  # aggiungi qui
 }
