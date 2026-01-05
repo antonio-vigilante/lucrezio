@@ -10,5 +10,5 @@ Questo sito offre la traduzione in endecasillabi del poema di Lucrezio di Antoni
 :maxdepth: 1
 
 introduzione/index
-libro1/index
+I/index
 ```

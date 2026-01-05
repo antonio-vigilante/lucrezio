@@ -2,37 +2,36 @@
 
 ## Edizioni critiche
 
-Lachmann  
-Lachmann K., *T. Lucretii De rerum natura libri sex*,  Impensis G. Reimeri Berolini 1850, 2 voll.
+(lachmann1850)= 
+Lachmann K. (1850), *T. Lucretii De rerum natura libri sex*,  Impensis G. Reimeri, Berolini, 2 voll.
 
 ## Traduzioni italiane
 
-Fellin 1963  
-Fellin A., *La Natura*, UTET, Torino 1963.
+(fellin1963)= 
+Fellin A. (1963), *La Natura*, UTET, Torino.
 
-Canali 1990  
-Canali L., *La natura delle cose*, Rizzoli, Milano 1990.
+(canali1990)= 
+Canali L. (1990), *La natura delle cose*, Rizzoli, Milano.
 
 ## Studi
 
-(beretta2015)=
-Beretta 2015  
-Beretta M., *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma 2015.
+(beretta2015)= 
+Beretta M. (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma.
 
-Canfora 1993  
-Canfora L., *Vita di Lucrezio*, Sellerio 1993.
+(canfora1993)= 
+Canfora L. (1993), *Vita di Lucrezio*, Sellerio, Palermo.
 
-Nichols 1976  
-Nichols J.H., *Epicurean Political Philosophy. The De Rerum Natura of Lucretius*, Cornell University Press, Ithaca and London 1976.
+(nichols1976)= 
+Nichols J.H. (1976), *Epicurean Political Philosophy. The De Rerum Natura of Lucretius*, Cornell University Press, Ithaca and London.
 
-Nussbaum 1998  
-Nussbaum M., *Terapia del desiderio. Teoria e pratica nell’etica ellenistica*, Vita e Pensiero, Milano 1998.  
+(nussbaum1998)= 
+Nussbaum M. (1998), *Terapia del desiderio. Teoria e pratica nell’etica ellenistica*, Vita e Pensiero, Milano.  
 
-Rebeggiani 2019  
-Rebeggiani S., *Roman Agamemnon. Political Echoes in the Proem to Lucretius’ De rerum natura*, in "Mnemosyne", (2019), fasc. 1–23.
+(rebeggiani2019)= 
+Rebeggiani S. (2019), *Roman Agamemnon. Political Echoes in the Proem to Lucretius’ De rerum natura*, in "Mnemosyne", fasc. 1–23.
 
-Segal 1990  
-Segal C., *Lucretius on Death and Anxiety. Poetry and Philosophy in De Rerum Natura*, Princeton University Press, Princeton 1990.
+(segal1990)= 
+Segal C. (1990), *Lucretius on Death and Anxiety. Poetry and Philosophy in De Rerum Natura*, Princeton University Press, Princeton.
 
-Vesperini 2017  
-Vesperini P., *Lucrèce. Archéologie d’un classique européenne*, Fayard, Paris 2017.
+(vesperini2017)= 
+Vesperini P. (2017), *Lucrèce. Archéologie d’un classique européenne*, Fayard, Paris.
