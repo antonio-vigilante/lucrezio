@@ -10,7 +10,7 @@ Questa traduzione è rilasciata con licenza Creative Commons Attribuzione 4.0 In
 
 Può essere che quest'opera sia di qualche utilità per queste sue caratteristiche. Perché offre una alternativa per coloro che amano una traduzione metrica e, soprattutto, perché si propone come *opera aperta*, un cantiere ermeneutico nel quale chiunque può lavorare. 
 
-La *Guida alla lettura* che accompagna e affianca la traduzione non vuole essere un commento puntuale ma appunto una guida alla comprensione del testo; in particolare intende illustrare i passaggi spesso complessi del ragionamento lucreziano, oltre ad offrire informazioni utili per una più ampia comprensione del testo.
+La *Guida alla lettura* che accompagna e affianca la traduzione non vuole essere un commento puntuale ma appunto una guida alla comprensione del testo; in particolare intende illustrare i passaggi spesso complessi del ragionamento lucreziano, oltre ad offrire informazioni utili per un approccio non superficiale all'opera.
 
 
 
