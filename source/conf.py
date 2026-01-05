@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'La natura'
+project = 'Lucrezio<br>De Rerum Natura'
 copyright = '2026, Antonio Vigilante'
 author = 'Antonio Vigilante'
 
@@ -32,7 +32,7 @@ language = 'it'
 
 html_theme = 'library'
 html_static_path = ['_static']
-html_title = 'La Natura'
+html_title = 'Lucrezio<br>De Rerum Natura'
 html_logo = '_static/logo.png'
 
 html_css_files = [
