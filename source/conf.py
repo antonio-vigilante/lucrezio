@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'La Natura'
+project = 'Lumina rebus'
 copyright = '2026, Antonio Vigilante'
 author = 'Antonio Vigilante'
 
@@ -45,8 +45,7 @@ html_sidebars = {
         "globaltoc.html",     # Global table of contents. 
         "searchbox.html",     # Search.
         "extralinks.html",    # Links specified in theme options.
-        #"localtoc.html",     # Contents of the current page.
-        "readingmodes.html",  # Light/sepia/dark color schemes.
+        "localtoc.html",     # Contents of the current page.
         "sponsors.html",      # Fancy sponsor links.
     ]
 }
