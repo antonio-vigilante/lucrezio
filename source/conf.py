@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'La natura delle cose'
+project = 'La natura<br />delle cose'
 copyright = '2026, Antonio Vigilante'
 author = 'Antonio Vigilante'
 
