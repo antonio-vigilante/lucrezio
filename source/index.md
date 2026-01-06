@@ -4,6 +4,8 @@ Questo sito è il cantiere della traduzione del *De Rerum Natura* di Lucrezio in
 
 Il sito è aggiornato man mano che procede la traduzione.
 
+Come afferma [Marchetti]{#marchetti1717}
+
 ### Indice generale
 
 Introduzione

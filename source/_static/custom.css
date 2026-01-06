@@ -29,33 +29,16 @@ body {
 }
 
  
-/* Fix sidebar trasparente con sphinx-design tab-set - Tema Library */
+/* Versione alternativa per tema Library */
 @media screen and (max-width: 996px) {
-    /* Sidebar principale */
-    .sidebar {
-        z-index: 1050 !important;
-        background-color: #ffffff !important;
-        opacity: 1 !important;
+    nav.sidebar,
+    .sidebar-container,
+    aside.sidebar {
+        z-index: 10000 !important;
+        background: #fff !important;
     }
     
-    /* Overlay quando sidebar è aperto */
-    .sidebar-overlay {
-        z-index: 1040 !important;
-    }
-    
-    /* Abbassa z-index delle tab sphinx-design */
-    .sd-tab-set,
-    .sd-tab-content,
-    .sd-tabs-container,
-    .sd-tab-label {
-        z-index: 1 !important;
-        position: relative;
-    }
-    
-    /* Contenuto principale */
-    .main-content,
-    .content {
-        z-index: 0;
-        position: relative;
+    .sd-tab-set * {
+        z-index: auto !important;
     }
 }
