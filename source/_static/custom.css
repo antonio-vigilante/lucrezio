@@ -29,16 +29,54 @@ body {
 }
 
  
-/* Versione alternativa per tema Library */
+/* Fix sidebar trasparente con sphinx-design tab-set - Tema Library */
 @media screen and (max-width: 996px) {
-    nav.sidebar,
-    .sidebar-container,
-    aside.sidebar {
-        z-index: 10000 !important;
-        background: #fff !important;
+    /* Sidebar principale */
+    nav.sphinxsidebar {
+        z-index: 2147483648 !important;
+        background-color: #ffffff !important;
+        opacity: 1 !important;
+        position: fixed !important;
     }
     
-    .sd-tab-set * {
+    /* Menu mobile */
+    nav.mobile-menu {
+        z-index: 2147483648 !important;
+        background-color: #ffffff !important;
+    }
+    
+    /* Wrapper del documento */
+    div.documentwrapper {
+        z-index: 1 !important;
+        position: relative !important;
+    }
+    
+    /* Contenuto body principale */
+    main#main.body,
+    div.body {
+        z-index: 1 !important;
+    }
+    
+    /* Tab sphinx-design */
+    .sd-tab-set,
+    .sd-tab-content,
+    .sd-tabs-container {
+        z-index: 1 !important;
+        position: relative !important;
+    }
+    
+    /* Related bottom navigation */
+    nav.related-bottom {
+        z-index: 10 !important;
+    }
+    
+    /* Footer */
+    footer.footer {
+        z-index: 100 !important;
+    }
+    
+    /* Clear/contenitore */
+    div.clear {
         z-index: auto !important;
     }
 }
