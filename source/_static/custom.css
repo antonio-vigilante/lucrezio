@@ -24,25 +24,38 @@ body p {
 }
 
 body {
-  font-size: 15.5px;
+  font-size: 17px;
   line-height: 1.6;
 }
 
  
-/* Fix per menu laterale trasparente su mobile con le tab */
-@media screen and (max-width: 768px) {
-    .sidebar-drawer {
-        z-index: 1000 !important;
-        background-color: var(--color-sidebar-background) !important;
+/* Fix sidebar trasparente con sphinx-design tab-set - Tema Library */
+@media screen and (max-width: 996px) {
+    /* Sidebar principale */
+    .sidebar {
+        z-index: 1050 !important;
+        background-color: #ffffff !important;
+        opacity: 1 !important;
     }
     
-    /* Assicura che l'overlay sia sopra le tab */
+    /* Overlay quando sidebar è aperto */
     .sidebar-overlay {
-        z-index: 999 !important;
+        z-index: 1040 !important;
     }
     
-    /* Impedisce che le tab interferiscano */
-    .sphinx-tabs {
+    /* Abbassa z-index delle tab sphinx-design */
+    .sd-tab-set,
+    .sd-tab-content,
+    .sd-tabs-container,
+    .sd-tab-label {
         z-index: 1 !important;
+        position: relative;
+    }
+    
+    /* Contenuto principale */
+    .main-content,
+    .content {
+        z-index: 0;
+        position: relative;
     }
 }
