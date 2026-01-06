@@ -33,7 +33,7 @@ language = 'it'
 html_theme = 'library'
 html_static_path = ['_static']
 html_title = 'De Rerum Natura'
-html_logo = '_static/logo.png'
+html_logo = '_static/logo_fr.png'
 html_theme_options = {
     "typography": "academy-native",
      }

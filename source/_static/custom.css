@@ -29,3 +29,20 @@ body {
 }
 
  
+/* Fix per menu laterale trasparente su mobile con le tab */
+@media screen and (max-width: 768px) {
+    .sidebar-drawer {
+        z-index: 1000 !important;
+        background-color: var(--color-sidebar-background) !important;
+    }
+    
+    /* Assicura che l'overlay sia sopra le tab */
+    .sidebar-overlay {
+        z-index: 999 !important;
+    }
+    
+    /* Impedisce che le tab interferiscano */
+    .sphinx-tabs {
+        z-index: 1 !important;
+    }
+}
