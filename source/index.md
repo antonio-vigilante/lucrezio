@@ -4,7 +4,6 @@ Questo sito è il cantiere della traduzione del *De Rerum Natura* di Lucrezio in
 
 Il sito è aggiornato man mano che procede la traduzione.
 
-Come afferma [Marchetti]{#marchetti1717}
 
 ### Indice generale
 
@@ -24,4 +23,4 @@ Il *De Rerum Natura*
 I/index
 ```
 
-In copertina: frontespizio del manoscritto del *De Rerum Natura* di papa Sisto IV, opera di Girolamo di Matteo de Tauris, 1483. Vat. lat. 1569 fol. 1 recto medbio04 NAN.13. Pubblico dominio.
+In copertina: immagine tratta dal frontespizio di T. Lucretius Carus, *Of the Nature of Things*, translated by Thomas Creech, second and third editions, Oxford and London 1682–1683.

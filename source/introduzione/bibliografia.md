@@ -41,6 +41,8 @@ Nussbaum Martha (1998), *Terapia del desiderio. Teoria e pratica nell’etica el
 (rebeggiani2019)= 
 Rebeggiani S. (2019), *Roman Agamemnon. Political Echoes in the Proem to Lucretius’ De rerum natura*, in "Mnemosyne", fasc. 1–23.
 
+(sedley2007)=
+Sedley David, *The Empedoclean Opening*, in *Oxford Readings in Classical Studies. Lucretius*, edited by Monica R. Gale, Oxford University Press, Oxford 2007, pp. 49-87. 
 (segal1990)= 
 Segal C. (1990), *Lucretius on Death and Anxiety. Poetry and Philosophy in De Rerum Natura*, Princeton University Press, Princeton.
 
