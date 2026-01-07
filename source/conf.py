@@ -35,7 +35,7 @@ html_title = "De rerum natura"
 html_static_path = ['_static']
 html_logo = '_static/logo_frontespizio.jpg'
 html_theme_options = {
-    "typography": "academy",
+    "typography": "swiss-native",
     "extra_links": {
         "GitHub": "https://github.com/",
     }
