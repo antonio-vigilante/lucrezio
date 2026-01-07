@@ -20,12 +20,27 @@ h2 {
 
 body p {
   margin-top: 7px !important;
-  margin-bottom: 7px !important;
+  margin-bottom: 10px !important;
 }
 
 body {
   font-size: 17px;
   line-height: 1.6;
+}
+
+.light blockquote {
+  font-style: normal;
+  color: #212529;
+}
+
+.sepia blockquote {
+  font-style: normal;
+  color: #4b3626;
+}
+
+.dark blockquote {
+   font-style: normal;
+   color: #e0e2e4;
 }
 
  

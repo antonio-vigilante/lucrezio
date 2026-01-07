@@ -9,7 +9,7 @@ Lachmann Karl (1850), *T. Lucretii De rerum natura libri sex*,  Impensis G. Reim
 
 Le traduzioni sono indicate in ordine cronologico, con la data della prima edizione.
 
-{#marchetti1717}
+(marchetti1717)=
 Marchetti Alessandro (1717): *Della natura delle cose libri sei*, Per Giovanni Pickard, London.
 
 (pinchetti1953)=
@@ -23,6 +23,11 @@ Canali Luca (1990): *La natura delle cose*, Rizzoli, Milano.
 
 (menghi2024)=
 Menghi Martino (2024): *La natura delle cose*, Bompiani, Milano.
+
+## Principali traduzioni straniere
+
+(ernout1920)=
+Ernout Alfred (1920), *De la nature*, "Les Belles Lettres", Paris.
 
 ## Studi
 
