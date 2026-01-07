@@ -28,6 +28,13 @@ body p {
  body {
  font-size: 1.0em;
  }
+ 
+ @media (max-width: 768px) {
+  html {
+    font-size: 1.4em;
+  }
+}
+
 
 .light blockquote {
   font-style: normal;
