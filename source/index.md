@@ -7,22 +7,12 @@ La licenza CC BY-SA 4.0 consente di distribuire, ripubblicare, modificare il tes
 Il sito è aggiornato man mano che procede la traduzione.
 
 
-### Indice generale
-
-Introduzione
+### Indice 
 
 ```{toctree}
 :maxdepth: 1
 
-introduzione/il-sublime-lucrezio
-introduzione/questa-traduzione
-introduzione/bibliografia
-```
-Il *De Rerum Natura*
-
-```{toctree}
-:maxdepth: 1
-
+introduzione/index
 I/index
 ```
 
