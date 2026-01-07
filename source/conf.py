@@ -34,7 +34,11 @@ html_theme = 'library'
 html_static_path = ['_static']
 html_logo = '_static/logo_frontespizio.jpg'
 html_theme_options = {
-    "typography": "academy-native",
+    "typography": "academy",
+    "extra_links": {
+        "GitHub": "https://github.com/",
+    }
+    
      }
 
 
