@@ -1,6 +1,8 @@
-# Presentazione
+# Il *De rerum natura*
 
-Questo sito è il cantiere della traduzione del *De Rerum Natura* di Lucrezio in endecasillabi di Antonio Vigilante. Oltre alla traduzione offre il testo latino (nell'edizione critica di Cyril Bailey), una *Guida alla lettura* e note al testo.
+Questo sito intende offrire un'edizione con licenza aperta del *De rerum natura* di Lucrezio, con l'edizione critica del testo latino di Cyril Bailley e la traduzione in endecasillabi, una *Introduzione*, una *Guida alla lettura* e le note di Antonio Vigilante.
+
+La licenza CC BY-SA 4.0 consente di distribuire, ripubblicare, modificare il testo per farne nuove versioni, alla sola condizione di utilizzare la stessa licenza. 
 
 Il sito è aggiornato man mano che procede la traduzione.
 
