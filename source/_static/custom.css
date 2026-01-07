@@ -22,11 +22,10 @@ body p {
   margin-top: 7px !important;
   margin-bottom: 10px !important;
 }
-
-body {
-  font-size: 17px;
-  line-height: 1.6;
-}
+ 
+ body {
+ font-size: 1.2em;
+ }
 
 .light blockquote {
   font-style: normal;

@@ -31,6 +31,7 @@ language = 'it'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'library'
+html_title = "De rerum natura"
 html_static_path = ['_static']
 html_logo = '_static/logo_frontespizio.jpg'
 html_theme_options = {
