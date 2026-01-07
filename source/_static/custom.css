@@ -12,19 +12,21 @@ h1 {
 
 h2 {
   font-weight: normal;
-  font-size: 1.4em; 
+  font-size: 1.6em; 
   line-height: 1.2;
   margin: 1.6em 0 0.8em 0;
   padding: 0;
 }
 
 body p {
+  font-size: 1.0em;
+  line-height: 1.5;
   margin-top: 7px !important;
   margin-bottom: 10px !important;
 }
  
  body {
- font-size: 1.2em;
+ font-size: 1.0em;
  }
 
 .light blockquote {
