@@ -40,6 +40,9 @@ Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza
 (canfora1993)= 
 Canfora Luciano (1993), *Vita di Lucrezio*, Sellerio, Palermo.
 
+(nethercut2021)=
+Nethercut Jason S.(2021), *Ennius Noster: Lucretius and the* Annales, Oxford University Press, Oxfodr.
+
 (nichols1976)= 
 Nichols J.H. (1976), *Epicurean Political Philosophy. The De Rerum Natura of Lucretius*, Cornell University Press, Ithaca and London.
 
