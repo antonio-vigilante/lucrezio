@@ -21,6 +21,9 @@ Fellin Armando (1963): *La natura*, UTET, Torino.
 (canali1990)= 
 Canali Luca (1990): *La natura delle cose*, Rizzoli, Milano.
 
+(deangelis2022)=
+De Angelis Milo (2022): *De rerum natura di Lucrezio*, Mondadori, Milano.
+
 (raccanelli2023)=
 Raccanelli Renata (2023): *De rerum natura*, Einaudi, Torino. 
 
