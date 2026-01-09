@@ -22,5 +22,5 @@ Indici/indice-dei-nomi
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="box">
-In copertina: Sancro Botticelli, *Venere e Marte*, particolare. National Gallery, Londra. 
+In copertina: Sandro Botticelli, <em>Venere e Marte</em>, particolare. National Gallery, Londra. 
 </div>
