@@ -21,6 +21,9 @@ Fellin Armando (1963): *La natura*, UTET, Torino.
 (canali1990)= 
 Canali Luca (1990): *La natura delle cose*, Rizzoli, Milano.
 
+(odifreddi2013)=
+Odifreddi Piergiorgio (2013): *Come stanno le cose. Il mio Lucrezio, la mia Venere*, Rizzoli, Milano.
+
 (deangelis2022)=
 De Angelis Milo (2022): *De rerum natura di Lucrezio*, Mondadori, Milano.
 
@@ -29,6 +32,7 @@ Raccanelli Renata (2023): *De rerum natura*, Einaudi, Torino.
 
 (menghi2024)=
 Menghi Martino (2024): *La natura delle cose*, Bompiani, Milano.
+
 
 ## Principali traduzioni straniere
 
