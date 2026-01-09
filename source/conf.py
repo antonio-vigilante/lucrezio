@@ -58,4 +58,16 @@ html_sidebars = {
     ]
 }
 
- 
+# Footer personalizzato
+html_show_sphinx = False  # Nasconde "Created using Sphinx"
+html_show_copyright = False
+copyright = 'Lucrezio 4.0 è un progetto di Antonio Vigilante rilasciato con licenza BB BY-SA 4.0'
+
+# Aggiungere HTML personalizzato al footer
+html_context = {
+    'display_github': True,
+    'github_user': 'tuousername',
+    'github_repo': 'tuorepo',
+    'github_version': 'main',
+}
+
