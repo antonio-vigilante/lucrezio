@@ -1,4 +1,4 @@
-# Un'edizione aperta<br>del *De rerum natura*
+# Un'edizione aperta <br>del *De rerum natura*
 
 Questo sito intende offrire un'edizione con licenza aperta del *De rerum natura* di Lucrezio, con l'edizione critica del testo latino di Cyril Bailey e la traduzione in endecasillabi, una *Introduzione*, una *Guida alla lettura* e le note di Antonio Vigilante.
 
