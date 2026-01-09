@@ -52,6 +52,14 @@ body p {
 }
 
  
+ .box {
+  background-color: #f2f2f2;   /* grigio chiaro */
+  border: none;                /* nessun bordo */
+  padding: 0.8em 1em;          /* un po’ di respiro interno */
+  font-size: 0.9em;            /* testo più piccolo del default */
+}
+
+
 /* Fix sidebar trasparente con sphinx-design tab-set - Tema Library */
 @media screen and (max-width: 996px) {
     /* Sidebar principale */
