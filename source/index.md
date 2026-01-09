@@ -22,5 +22,5 @@ Indici/indice-dei-nomi
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="box">
-In copertina: immagine tratta dal frontespizio di T. Lucretius Carus, <em>Of the Nature of Things</em>, translated by Thomas Creech, second and third editions, Oxford and London 1682–1683.
+In copertina: Sancro Botticelli, *Venere e Marte*, particolare. National Gallery, Londra. 
 </div>

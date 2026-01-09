@@ -33,7 +33,7 @@ language = 'it'
 html_theme = 'library'
 html_title = "De rerum natura"
 html_static_path = ['_static']
-html_logo = '_static/logo_frontespizio.jpg'
+html_logo = '_static/logo_botticelli.png'
 html_theme_options = {
     "typography": "swiss-native",
     "extra_links": {
