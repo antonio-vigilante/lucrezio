@@ -1,6 +1,6 @@
 # Bibliografia
 
-## Edizioni critiche
+# Edizioni critiche
 
 In ordine cronologico.
 
@@ -13,7 +13,7 @@ Munro Hugh Andrew Johnstone (1864), *Titi Lucretii Cari De rerum natura libri se
 (giussani1896-1898)=
 Giussani Carlo (1896-1898), *T. Lucretii Cari De rerum natura libri sex*, Loescher, Torini, 4 voll.
 
-## Traduzioni italiane
+# Traduzioni italiane
 
 Le traduzioni sono indicate in ordine cronologico, con la data della prima edizione.
 
@@ -27,7 +27,7 @@ Giussani Camillo (1949): *La natura*, Mondadori, Milano. In endecasillabi.
 Pinchetti Balilla (1953): *La Natura*, Biblioteca Universale Rizzoli, Milano. In ottonari doppi.
 
 (fellin1963)= 
-Fellin Armando (1963): *La natura*, UTET, Torino.
+Fellin Armando (1963): *La natura*, UTET, Torino. In prosa.
 
 Parrella Pietro (1973): *Il poema della natura*, Zanichelli, Bologna, 2 voll. In esametri.
 
@@ -53,12 +53,12 @@ Raccanelli Renata (2023): *De rerum natura*, Einaudi, Torino.  In versi liberi.
 Menghi Martino (2024): *La natura delle cose*, Bompiani, Milano. In versi liberi.
 
 
-## Principali traduzioni straniere
+# Principali traduzioni straniere
 
 (ernout1920)=
 Ernout Alfred (1920), *De la nature*, "Les Belles Lettres", Paris.
 
-## Studi
+# Studi
 
 (beretta2015)= 
 Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma.
