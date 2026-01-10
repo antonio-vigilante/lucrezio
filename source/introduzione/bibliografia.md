@@ -55,6 +55,9 @@ Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza
 (canfora1993)= 
 Canfora Luciano (1993), *Vita di Lucrezio*, Sellerio, Palermo.
 
+(gerlo1956)=
+Gerlo Aloïs (1956), *PSeudo-Lucretius?*, "L'Antiquité Classique", T. 25, Fasc. 1, pp. 41-72.
+
 (nail2018)=
 Nail Thomas (2018), *Lucretius I. An Ontology of Motion*, Edinburgh University Press, Edinburgh.
 
