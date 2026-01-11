@@ -14,7 +14,7 @@ Il sito è aggiornato man mano che procede la traduzione.
 
 introduzione/index
 I/index
-Indici/indice-dei-nomi
+indici/indice-dei-nomi
 ```
 <p>&nbsp;</p>
 <p>&nbsp;</p>
