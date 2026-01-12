@@ -8,7 +8,7 @@ Per il resto, ho cercato di conciliare la resa poetica con l'aderenza e la fedel
 
 Questa traduzione è rilasciata con licenza Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0); la mia speranza è che non sia solo liberamente distribuita, ma diventi anche la base per altre traduzioni, riviste, corrette, migliori della mia.
 
-Può essere che quest'opera sia di qualche utilità per queste sue caratteristiche. Perché offre una alternativa per coloro che amano una traduzione metrica e, soprattutto, perché si propone come *opera aperta*, un cantiere ermeneutico nel quale chiunque può lavorare. 
+Può essere, insomma, che quest'opera sia di qualche utilità per queste sue caratteristiche. Perché offre una alternativa per coloro che amano una traduzione metrica e, soprattutto, perché si propone come *opera aperta*, un cantiere ermeneutico nel quale chiunque può lavorare. 
 
 La *Guida alla lettura* che accompagna e affianca la traduzione non vuole essere un commento puntuale ma appunto una guida alla comprensione del testo; in particolare intende illustrare i passaggi spesso complessi del ragionamento lucreziano, oltre ad offrire informazioni utili per un approccio non superficiale all'opera.
 
