@@ -8,5 +8,4 @@
 il-sublime-lucrezio
 un-tempo-difficile
 questa-traduzione
-bibliografia
 ```
