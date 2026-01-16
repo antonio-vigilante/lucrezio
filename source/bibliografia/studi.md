@@ -6,6 +6,9 @@ Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza
 (canfora1993)= 
 Canfora Luciano (1993), *Vita di Lucrezio*, Sellerio, Palermo.
 
+(farrell2020)=
+Farrell Joseph (2020), *Was Memmius a Good King?*, in O'Rourke ed. 2020, pp. 219-240.
+
 (gerlo1956)=
 Gerlo Aloïs (1956), *Pseudo-Lucretius?*, "L'Antiquité Classique", T. 25, Fasc. 1, pp. 41-72.
 
@@ -26,6 +29,9 @@ Nichols James H. (1976), *Epicurean Political Philosophy. The De Rerum Natura of
 
 (nussbaum1998)= 
 Nussbaum Martha (1998), *Terapia del desiderio. Teoria e pratica nell’etica ellenistica*, Vita e Pensiero, Milano. 
+
+(orourke2020)=
+O'Rourke Donncha (ed.)(2020), *Approaches to Lucretius.Traditions and Innovations in Reading the* De Rerum Natura, Cambridge University Press, Cambridge.
 
 (rebeggiani2019)= 
 Rebeggiani Stefano (2019), *Roman Agamemnon. Political Echoes in the Proem to Lucretius’ De rerum natura*, in "Mnemosyne", fasc. 1–23.

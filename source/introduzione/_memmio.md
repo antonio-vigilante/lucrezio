@@ -1,0 +1,17 @@
+# Memmio
+
+La dedica a Memmio è l'unica 
+
+Memmio apparteneva alla gens Memmia, una famiglia di origine plebea ascesa politicamente tra il III e il II secolo a.C. Sebbene fossero senatori da generazioni, i Memmii non erano ancora considerati nobiles in senso stretto, non avendo ancora raggiunto il consolato. La famiglia rivendicava una discendenza troiana da Mnesteo, compagno di Enea, legandosi così direttamente al culto di Venere, con la cui invocazione comincia il *De rerum natura*. Memmio sposò Fausta, figlia del dittatore Sulla, unione che rifletteva le sue ambizioni politiche e il suo inserimento nei circoli di potere legati a Pompeo; divorziò da lei intorno al 55 a.C.
+2. Carriera Politica e Militare
+La sua carriera fu segnata da una condotta aggressiva e, infine, rovinosa:
+• Tribunato e pretura: Fu un "accusatore feroce" dei patrizi corrotti, distinguendosi per l'opposizione ai fratelli Luculli e al loro trionfo (Vesperini 2017, 769, 774; Farrell 2020, 220). Ricoprì la pretura nel 58 a.C., anno in cui denunciò gli atti consolari di Cesare (Vesperini 2017, 775; Farrell 2020, 221).
+• Governatorato: Nel 57 a.C. fu governatore della Bitinia e del Ponto, dove ottenne il titolo di imperator (Vesperini 2017, 776; Farrell 2020, 220). Nel suo seguito figuravano i poeti Catullo ed Elvio Cinna (Gale 2009, 380; Vesperini 2017, 779).
+• Scandalo e esilio: Nel 54 a.C. la sua candidatura al consolato fallì a causa di un clamoroso scandalo di corruzione elettorale (ambitus) che coinvolse i consoli in carica (Farrell 2020, 221; Vesperini 2017, 798). Condannato nel 52 a.C., fu costretto all'esilio ad Atene e successivamente a Mitilene (Gale 2009, 380; Farrell 2020, 222).
+3. Profilo Culturale e Patronato
+Memmio era un uomo di vasta cultura, definito da Cicerone come un oratore di talento ma "impaziente della fatica" di pensare e scrivere (Farrell 2020, 223; Gale 2009, 380).
+• Interessi letterari: Era un devoto della letteratura greca e disdegnava quella latina, pur essendo egli stesso autore di poesie erotiche in latino (Farrell 2020, 223; Vesperini 2017, 781-782).
+• Patronato: Fu il protettore di Lucrezio, che lo definisce "lettore sublime", sperando di conquistare la sua "dolce amicizia" (suavis amicitia) (Canfora 1993, 23, 44; Farrell 2020, 225). Fu anche patrono di Catullo, il quale tuttavia lo ritrasse in termini sprezzanti dopo la deludente esperienza in Bitinia (Gale 2009, 380; Vesperini 2017, 780).
+4. Rapporto con l'Epicureismo
+Il suo legame con la filosofia di Epicuro appare paradossale. Sebbene Lucrezio gli dedichi il poema per liberarlo dai timori religiosi e dall'ambizione, Memmio mantenne un distacco ironico o addirittura ostile verso la scuola (Canfora 1993, 52; Gale 2009, 380). L'episodio più indicativo avvenne durante il suo esilio ad Atene, quando acquistò le rovine della casa di Epicuro con l'intenzione di demolirle per costruirvi un proprio edificio, scatenando le proteste della comunità epicurea guidata da Patrone (Farrell 2020, 224; Canfora 1993, 52; Gale 2009, 380). Questo evento suggerisce che Memmio cercasse di associare il proprio nome al prestigio culturale greco (Epicuri auctoritas) senza però abbracciarne i precetti etici (Vesperini 2017, 803).
+In sintesi, Memmio incarna il destinatario ideale per la terapia lucreziana proprio perché rappresentava tutto ciò che l'epicureismo intendeva curare: l'ambizione sfrenata, il coinvolgimento nei conflitti civili e una vita dominata dalle passioni (Farrell 2020, 238).
