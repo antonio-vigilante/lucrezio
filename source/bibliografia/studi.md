@@ -3,6 +3,9 @@
 (beretta2015)= 
 Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma.
 
+(boyance1970)=
+Boyancé Pierre (1970), éLucrezio e l'epicureismo*, Paideia, Brescia.
+
 (canfora1993)= 
 Canfora Luciano (1993), *Vita di Lucrezio*, Sellerio, Palermo.
 
