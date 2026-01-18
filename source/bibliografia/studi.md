@@ -15,6 +15,9 @@ Farrell Joseph (2020), *Was Memmius a Good King?*, in O'Rourke ed. 2020, pp. 219
 (gerlo1956)=
 Gerlo Aloïs (1956), *Pseudo-Lucretius?*, "L'Antiquité Classique", T. 25, Fasc. 1, pp. 41-72.
 
+(giancotti1950)=
+Giancotti Francesco (1950), *Il preludio di Lucrezio*, D'Anna, Messina-Firenze.
+
 (nail2018)=
 Nail Thomas (2018), *Lucretius I. An Ontology of Motion*, Edinburgh University Press, Edinburgh.
 
