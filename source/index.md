@@ -12,7 +12,6 @@ Il sito è aggiornato man mano che procede la traduzione.
 ```{toctree}
 :maxdepth: 1
 
-introduzione/index
 I/index
 bibliografia/index
 indici/indice-dei-nomi
