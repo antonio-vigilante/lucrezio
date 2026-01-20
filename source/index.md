@@ -15,6 +15,7 @@ Il sito è aggiornato man mano che procede la traduzione.
 I/index
 bibliografia/index
 indici/indice-dei-nomi
+sigle
 ```
 <p>&nbsp;</p>
 <p>&nbsp;</p>
