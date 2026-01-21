@@ -3,6 +3,10 @@
 (beretta2015)= 
 Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma.
 
+(bignone1920)=
+Bignone Ernesto (1920), *Le muse eraclitee in Lucrezio*, in Aa.Vv., *Miscellanea di studi critici in onore di Ettore Stampini*, Lattes & C.
+Torino-Genova, pp. 229-231
+
 (boyance1970)=
 Boyancé Pierre (1970), *Lucrezio e l'epicureismo*, Paideia, Brescia.
 
