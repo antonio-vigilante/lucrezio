@@ -2,7 +2,7 @@
 
 
 (diogene2005)=
-Diogene Laerzio (2005), *Vite e dottrine dei più celebri filosofi*, a cura di Giovanni reale, Bompiani, Milano.
+Diogene Laerzio (2005), *Vite e dottrine dei piÃ¹ celebri filosofi*, a cura di Giovanni reale, Bompiani, Milano.
 
 (epicuro1960)=
 Epicuro (1960), *Opere*, a cura di Graziano Arrighetti, Einaudi, Torino.
