@@ -1,5 +1,6 @@
 # Testi filosofici
 
+Sono indicate solo le opere citate.
 
 (diogene2005)=
 Diogene Laerzio (2005), *Vite e dottrine dei più celebri filosofi*, a cura di Giovanni reale, Bompiani, Milano.
