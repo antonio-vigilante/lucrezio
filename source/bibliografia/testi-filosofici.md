@@ -2,8 +2,8 @@
 
 Sono indicati solo i testi citati.
 
-(diogene2005)=
-Diogene Laerzio (2005),*Vite e dottrine dei più celebri filosofi*, a cura di Giovanni Reale, Bompiani, Milano.
+(diogene2025)=
+Diogene Laerzio (2005), *Vite e dottrine dei più celebri filosofi*, a cura di Giovanni Reale, Bompiani, Milano.
 
 (epicuro1960)=
 Epicuro (1960), *Opere*, a cura di Graziano Arrighetti, Einaudi, Torino.
