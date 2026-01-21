@@ -4,7 +4,7 @@ Questo sito intende offrire un'edizione con licenza aperta del *De rerum natura*
 
 La licenza CC BY-SA 4.0 consente di distribuire, ripubblicare, modificare il testo per farne nuove versioni, alla sola condizione di utilizzare la stessa licenza. 
 
-Il sito è aggiornato man mano che procede la traduzione.
+Il sito è aggiornato man mano che procede la traduzione. Ultimo aggiornamento: 21 gennaio 2026.
 
 
 ### Indice 

@@ -1,4 +1,4 @@
-# Testi filosofici
+# Opere filosofiche
 
 Sono indicate solo le opere citate.
 
