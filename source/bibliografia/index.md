@@ -9,7 +9,7 @@
 edizioni-critiche
 traduzioni-italiane
 traduzioni-straniere
-testi-filosofici
+opere-filosofiche
 studi
 ```
 
