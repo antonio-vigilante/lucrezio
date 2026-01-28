@@ -4,8 +4,7 @@
 Beretta Marco (2015), *La rivoluzione culturale di Lucrezio. Filosofia e scienza nell’antica Roma*, Carocci, Roma.
 
 (bignone1920)=
-Bignone Ernesto (1920), *Le muse eraclitee in Lucrezio*, in Aa.Vv., *Miscellanea di studi critici in onore di Ettore Stampini*, Lattes & C.
-Torino-Genova, pp. 229-231
+Bignone Ernesto (1920), *Le muse eraclitee in Lucrezio*, in Aa.Vv., *Miscellanea di studi critici in onore di Ettore Stampini*, Lattes & C., Torino-Genova, pp. 229-231
 
 (boyance1970)=
 Boyancé Pierre (1970), *Lucrezio e l'epicureismo*, Paideia, Brescia.
@@ -54,3 +53,6 @@ Segal Charles (1990), *Lucretius on Death and Anxiety. Poetry and Philosophy in 
 
 (vesperini2017)=
 Vesperini P. (2017), *Lucrèce. Archéologie d’un classique européenne*, Fayard, Paris.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcxMjUxMzEwMV19
+-->
