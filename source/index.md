@@ -4,7 +4,7 @@ Questo sito intende offrire un'edizione con licenza aperta del *De rerum natura*
 
 La licenza CC BY-SA 4.0 consente di distribuire, ripubblicare, modificare il testo per farne nuove versioni, alla sola condizione di utilizzare la stessa licenza. 
 
-Il sito è aggiornato man mano che procede la traduzione. Ultimo aggiornamento: 21 gennaio 2026.
+Il sito è aggiornato man mano che procede la traduzione. Ultimo aggiornamento: 2 febbraio 2026.
 
 
 ### Indice 
@@ -25,3 +25,6 @@ sigle
 <div class="box">
 In copertina: Sandro Botticelli, <em>Venere e Marte</em>, particolare. National Gallery, Londra. 
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4Mzk5MTMyNF19
+-->
