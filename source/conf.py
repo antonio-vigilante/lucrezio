@@ -17,9 +17,8 @@ extensions = [
     'myst_parser',
     'sphinx_design',   
 ]
-
 myst_enable_extensions = [
-    "colon_fence",  # Abilita la sintassi :::
+    'colon_fence',
 ]
 
 templates_path = ['_templates']
