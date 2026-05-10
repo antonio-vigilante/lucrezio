@@ -25,7 +25,3 @@ sigle
 <div class="box">
 In copertina: Sandro Botticelli, <em>Venere e Marte</em>, particolare. National Gallery, Londra. 
 </div>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzk5MTMyNCw2MzU0NDQxMTksLTU4Mz
-k5MTMyNF19
--->
