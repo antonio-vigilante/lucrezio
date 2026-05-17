@@ -7,6 +7,7 @@
 ```{toctree}
 :maxdepth: 1
 
+Intero libro in traduzione (senza note e Guida alla lettura) <I-IT>
 01-49
 50-61
 62-79
@@ -29,5 +30,6 @@
 951-1051
 1052-1113
 1114-1117
+
 ```
  
